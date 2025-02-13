@@ -1,49 +1,99 @@
 Product Name: Alpine Skis
-Review: "After testing these skis across various conditions in Vail and Breckenridge, I can confidently say they're exceptional. The edge control is remarkable on icy mornings, and they float beautifully in powder. I particularly love how they handle quick transitions between different snow conditions. The construction quality is evident - after 20+ days of aggressive skiing, they still look and perform like new. Definitely worth the investment for any serious skier."
-Rating: 5/5
+Review: "After testing these skis across various conditions in Vail and Breckenridge, I can confidently say they're exceptional. The edge control is remarkable on icy mornings, and they float beautifully in powder. I particularly love how they handle quick transitions between different snow conditions. The construction quality is evident - after 20+ days of aggressive skiing, they still look and perform like new."
 Date: 2023-10-20
 
 Product Name: Thermal Gloves
-Review: "Living in Colorado and skiing regularly, I've tried numerous gloves over the years, but these stand out. The combination of warmth and dexterity is impressive - I can easily operate my phone and adjust equipment without removing them. The only minor issue is the sizing runs slightly small, so I had to exchange my first pair for a larger size. The waterproofing has held up excellently through wet conditions, and the leather palms show minimal wear after three months of regular use. Would definitely recommend sizing up."
-Rating: 4/5
+Review: "Disappointing durability. While they're warm and initially comfortable, the stitching around the thumb started coming apart after just two weeks of use. The touchscreen functionality is also hit-or-miss, often requiring multiple attempts to work. For the price point, I expected better quality control."
 Date: 2023-10-21
 
 Product Name: Carbon Fiber Poles
-Review: "These poles are a game-changer for backcountry skiing. The lightweight design makes a noticeable difference during long ascents, and the durability is impressive. I've accidentally caught them between rocks several times, and they've held up without a scratch. The grip ergonomics are well-thought-out, and the adjustable straps stay perfectly in place. The only reason I'm not giving 5 stars is that the powder baskets could be slightly larger for deep snow conditions. Still, they're the best poles I've used in my 15 years of skiing."
-Rating: 4/5
+Review: "Mixed feelings about these poles. The lightweight design is fantastic for long days, but the powder baskets are too small for deep snow. They've held up well against impacts, though the locking mechanism for length adjustment can be finicky in cold weather. Decent poles, but there's definitely room for improvement."
 Date: 2023-10-22
 
 Product Name: Ski Goggles
-Review: "As someone who wears prescription glasses, finding the right ski goggles has always been a challenge. These goggles are a perfect fit over my glasses, with no pressure points even after full days on the slopes. The anti-fog technology is incredible - I've used them in various conditions from heavy snowfall to sunny spring days, and they've never fogged up. The peripheral vision is excellent, and the lens quality makes everything crystal clear. The included case and extra lens are great bonuses. They've completely transformed my skiing experience."
-Rating: 5/5
+Review: "Absolutely love these goggles. They work perfectly over my prescription glasses, with no pressure points even during full-day sessions. The anti-fog technology is incredible - I've used them in everything from heavy snowfall to spring conditions without any issues. Crystal clear vision and excellent peripheral view."
 Date: 2023-10-23
 
 Product Name: Insulated Jacket
-Review: "This jacket has been my go-to for the entire season at Aspen Highlands. The insulation is perfectly balanced - warm enough for the coldest days but breathable enough to prevent overheating during intense runs. The hood design works great with or without a helmet, and the powder skirt integration is seamless. All the pockets are thoughtfully placed, though I wish the chest pocket was slightly larger for modern smartphones. The waterproofing has held up remarkably well through wet spring conditions. After 40+ days of use, it still looks and performs like new."
-Rating: 4/5
+Review: "The jacket looks great and is well-insulated, but the zipper is a major issue. It constantly gets stuck and sometimes comes off track. Customer service was unhelpful when I reached out about this problem. The pocket placement is also awkward - can't easily access them while wearing a backpack."
 Date: 2023-10-24
 
 Product Name: Performance Racing Skis
-Review: "Coming from a racing background, I'm extremely particular about my equipment. These skis exceeded my expectations in every way. The edge hold at high speeds is phenomenal, and the responsiveness when transitioning between turns is unlike anything I've experienced before. I've used them in several local competitions at Winter Park, and they've given me a noticeable improvement in my times. The construction quality is evident in how they maintain their performance characteristics even after multiple tunings. They do require a skilled skier to handle them properly, but for those with the experience, they're absolutely worth the investment."
-Rating: 5/5
+Review: "Despite the premium price tag, these skis underperform on hard-packed snow. They chatter significantly at high speeds, and the edges started showing wear much sooner than expected. The factory tune was inconsistent, requiring immediate shop work. Not what I expected from a supposedly high-end racing ski."
 Date: 2023-10-25
 
 Product Name: Pro Ski Boots
-Review: "The custom molding process was incredibly thorough and professional. The fitter spent over an hour getting everything dialed in perfectly. After three weeks of regular use at Copper Mountain, I can say these are the most comfortable ski boots I've ever worn. The micro-adjustable buckles make it easy to fine-tune the fit throughout the day, and the walk mode is a huge plus when hiking to the back bowls. The only downside is they took about 4-5 days to fully break in, but now they're absolutely perfect. Worth every penny for the custom fit and performance."
-Rating: 5/5
+Review: "The custom molding process was thorough and professional, but these boots have been a journey. Break-in period was brutal - almost gave up after the first week. Now after a month, they're starting to feel right. Wish the shop had warned me about the intense break-in period."
 Date: 2023-10-26
 
 Product Name: Mountain Series Helmet
-Review: "The audio quality through the integrated speakers is surprisingly good, and the Bluetooth connectivity is solid. I especially appreciate how easy it is to adjust volume and skip tracks with gloves on. The ventilation system is highly effective - I can open or close vents on the go to regulate temperature. The fit adjustment system is precise and stays locked in place. My only criticism is that the battery life could be better - I get about 6-7 hours of audio playback in cold conditions. That aside, it's a fantastic helmet that makes my time on the slopes more enjoyable."
-Rating: 4/5
+Review: "Good protection and comfort, but the audio system is a letdown. Battery life is poor in cold weather, barely lasting half a day. Bluetooth connectivity drops frequently, especially on lifts. The ventilation system works well though, and the fit adjustment is precise."
 Date: 2023-10-27
 
 Product Name: Alpine Base Layer
-Review: "This base layer has become an essential part of my ski kit. I've used it in temperatures ranging from -10°F to 40°F, and it performs beautifully across the board. The merino blend is incredibly comfortable and doesn't develop odors even after multiple days of use. The ventilation zones are perfectly placed, and I particularly appreciate how it stays tucked in thanks to the longer cut. The seamless construction eliminates any chafing issues I've had with other base layers. I liked it so much I bought two more - can't imagine skiing without it now."
-Rating: 5/5
+Review: "Perfect temperature regulation and wicking. Used this for a full season at Winter Park and it's still in great shape. No odor issues even after intense days, and the fit remains consistent after multiple washes. Ordered two more for next season."
 Date: 2023-10-28
 
 Product Name: Avalanche Safety Pack
-Review: "As a backcountry guide in the Colorado Rockies, reliable safety equipment is absolutely crucial. This pack exceeds all my expectations. The airbag deployment system is easy to test and repack, and the pack itself is thoughtfully designed for quick access to rescue gear. The comfort level is outstanding even when fully loaded, and the hip belt pockets are perfectly positioned. The hydration system stays unfrozen thanks to the insulated sleeve. It's definitely an investment, but one that gives great peace of mind when venturing into the backcountry."
-Rating: 5/5
+Review: "Essential backcountry gear that performed flawlessly during a recent avalanche course. The organization is intuitive, deployment system is smooth, and the comfort level is surprisingly good for such a technical pack. Worth every penny for the peace of mind."
 Date: 2023-10-29
+
+Product Name: Alpine Skis
+Review: "The durability issues are concerning. After just ten days, the edges started to delaminate and the topsheet is showing excessive wear. While they perform well when new, these construction problems are unacceptable at this price point. Save your money and look elsewhere."
+Date: 2023-10-30
+
+Product Name: Thermal Gloves
+Review: "These run extremely small - had to size up twice to get a proper fit. Once you get the right size, they're decent gloves, but the sizing inconsistency is frustrating. The leather palms are holding up well, and they're adequately warm for Colorado winters."
+Date: 2023-10-31
+
+Product Name: Performance Racing Skis
+Review: "Not for intermediates - learned this the hard way. These skis demand perfect technique and punish any form lapses. However, if you have the skills, they're incredibly responsive and stable at speed. Just be honest about your ability level before purchasing."
+Date: 2023-11-01
+
+Product Name: Mountain Series Helmet
+Review: "The size chart is completely off - ordered my usual size and it's way too tight. Return process was a hassle, and customer service took forever to respond. The features look great, but I can't comment on performance since I couldn't even wear it properly."
+Date: 2023-11-02
+
+Product Name: Avalanche Safety Pack
+Review: "Well-designed but overpriced. The pack is solid and the safety features are reliable, but you're paying a premium for the brand name. Similar packs from other manufacturers offer the same features for less. That said, the build quality is undeniably good."
+Date: 2023-11-03
+
+Product Name: Carbon Fiber Poles
+Review: "For the weight and price, I can't believe they didn't include any spare baskets. The tips are already showing wear after light use. Yes, they're lightweight, but the durability isn't there. Save your money and go with aluminum poles instead."
+Date: 2023-11-04
+
+Product Name: Ski Goggles
+Review: "Lens scratched way too easily - just from regular use and proper storage in the included case. The anti-fog coating works great, but what's the point if the lens gets damaged so quickly? Expected better durability at this price point."
+Date: 2023-11-05
+
+Product Name: Pro Ski Boots
+Review: "Game-changing comfort after proper fitting. The shell modification options are extensive, and the liner molds perfectly to your foot shape. Walk mode is smooth and the range of motion is impressive. Finally found boots that don't cause shin bang."
+Date: 2023-11-06
+
+Product Name: Insulated Jacket
+Review: "Average performance for the price. Water resistance is good but not great, and the insulation is a bit inconsistent - some cold spots near the seams. The hood design works well with helmets though, and the powder skirt is effective."
+Date: 2023-11-07
+
+Product Name: Alpine Base Layer
+Review: "Sizing is inconsistent with other products from the same brand. The seams are itchy, and the fabric pills significantly after washing. While the moisture-wicking works well, there are better options available for less money."
+Date: 2023-11-08
+
+Product Name: Performance Racing Skis
+Review: "These skis transformed my racing performance. The edge grip is phenomenal, and they're incredibly stable at high speeds. They require proper technique, but if you've got the skills, they'll take your skiing to the next level. Worth the investment for serious racers."
+Date: 2023-11-09
+
+Product Name: Thermal Gloves
+Review: "The waterproofing failed after just three uses - hands got soaked on a moderately snowy day. The gloves also stain easily and the dye bleeds onto other gear. Poor quality control and definitely not worth the premium price."
+Date: 2023-11-10
+
+Product Name: Mountain Series Helmet
+Review: "Decent enough, but nothing special. The ventilation system works as advertised, and the fit is comfortable. Audio quality is mediocre, and the battery life could be better. It's a solid helmet, but there are better options in this price range."
+Date: 2023-11-11
+
+Product Name: Avalanche Safety Pack
+Review: "The quality control on these packs needs serious improvement. Found loose stitching and an improperly attached airbag handle. While the design is good in theory, the execution is concerning for such critical safety equipment. Had to return it."
+Date: 2023-11-12
+
+Product Name: Carbon Fiber Poles
+Review: "A solid middle-ground option. They're not the lightest or the strongest, but they get the job done. The grips are comfortable, and the straps are easy to adjust. Just don't expect premium performance at this price point."
+Date: 2023-11-13
