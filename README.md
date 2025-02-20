@@ -1,4 +1,4 @@
-# 🗻 Avalanche
+# 🗻 Avalanche `work in progress`
 
 Avalanche is a hypothetical company that sells winter sports gear. 
 
