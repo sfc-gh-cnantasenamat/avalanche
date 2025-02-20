@@ -8,4 +8,4 @@ This data set is comprised of:
 - Order history
 - Shipping log
 
-Note: This data set is a work in progress.
+> **Note:** This data set is a work in progress.
