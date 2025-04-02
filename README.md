@@ -14,6 +14,8 @@ We'll use the **customer reviews** data to build a dashboard.
 
 The unstructured version of the data is provided in the `files/` directory. From there you can find additional sub-directory called `files/customer_reviews` (that contains a collection of `DOCX` files), `files/order_history` (that contains a collection of `PDF` files), etc.
 
+To setup the database and upload to a stage on the Snowflake platform, you can use the SQL code provided in the `setup.sql` file.
+
 ## Notebook
 In the notebook (provided in the `notebook/` directory), you'll ingest/upload the unstructured data (`DOCX` files mentioned above) to Snowflake to perform data preparation (that we'll store in the `data/` directory) and data visualization as you build out an interactive dashboard app.
 
