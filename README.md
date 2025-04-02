@@ -8,7 +8,9 @@ This data set is comprised of:
 - Order history
 - Shipping log
 
-We'll use the **customer reviews** data to build a dashboard.
+## What we're building
+
+We're tasked with the goal of figuring out the general sentiment that customers have towards the company's products. Therefore, we'll use the ***customer reviews*** data to build a dashboard app with Streamlit.
 
 ## Unstructured data
 
