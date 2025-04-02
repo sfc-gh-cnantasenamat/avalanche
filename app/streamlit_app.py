@@ -11,7 +11,7 @@ with st.sidebar:
     dataset = st.selectbox("Select a data subset", ('Customer Reviews', 'Product Catalog', 'Order History', 'Shipping Logs'))
 
 if dataset == 'Customer Reviews':
-    df = pd.read_csv("avalanche_customer_reviews.csv")
+    df = pd.read_csv("customer_reviews.csv")
 
     tab = st.tabs(['Daily / Weekly / Monthly', 'Product', 'Data'])
 
