@@ -14,6 +14,8 @@ CREATE STAGE IF NOT EXISTS avalanche_db.avalanche_schema.customer_reviews
 -- Once you've done that proceed to the next step
 
 -- Option 2: Push files to Stage from S3
+-- Uncomment lines below to use:
+--
 -- Create the stage for storing our files
 -- CREATE OR REPLACE STAGE customer_reviews
    -- URL = 's3://sfquickstarts/misc/customer_reviews/'
@@ -23,25 +25,29 @@ CREATE STAGE IF NOT EXISTS avalanche_db.avalanche_schema.customer_reviews
 ls @avalanche_db.avalanche_schema.customer_reviews;
 
 -- Read single file
-SELECT
-  SNOWFLAKE.CORTEX.PARSE_DOCUMENT(
-    @avalanche_db.avalanche_schema.customer_reviews,
-    'review-01.docx',
-    {'mode': 'layout'}
-  ) AS layout;
+-- Uncomment lines below to use:
+--
+-- SELECT
+--   SNOWFLAKE.CORTEX.PARSE_DOCUMENT(
+--     @avalanche_db.avalanche_schema.customer_reviews,
+--     'review-01.docx',
+--     {'mode': 'layout'}
+--   ) AS layout;
 
 -- Read multiple files into a table
-WITH files AS (
-  SELECT 
-    REPLACE(REGEXP_SUBSTR(file_url, '[^/]+$'), '%2e', '.') as filename
-  FROM DIRECTORY('@avalanche_db.avalanche_schema.customer_reviews')
-  WHERE filename LIKE '%.docx'
-)
-SELECT 
-  filename,
-  SNOWFLAKE.CORTEX.PARSE_DOCUMENT(
-    @avalanche_db.avalanche_schema.customer_reviews,
-    filename,
-    {'mode': 'layout'}
-  ):content AS layout
-FROM files;
+-- Uncomment lines below to use:
+--
+-- WITH files AS (
+--   SELECT 
+--     REPLACE(REGEXP_SUBSTR(file_url, '[^/]+$'), '%2e', '.') as filename
+--   FROM DIRECTORY('@avalanche_db.avalanche_schema.customer_reviews')
+--   WHERE filename LIKE '%.docx'
+-- )
+-- SELECT 
+--   filename,
+--   SNOWFLAKE.CORTEX.PARSE_DOCUMENT(
+--     @avalanche_db.avalanche_schema.customer_reviews,
+--     filename,
+--     {'mode': 'layout'}
+--   ):content AS layout
+-- FROM files;
