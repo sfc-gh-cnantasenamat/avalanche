@@ -151,7 +151,7 @@ with tab[2]:
     st.subheader('Prepared Data set')
     st.dataframe(df)
 
-######################
+##################################################################
 
 # M3 Lab3
 MODELS = ["mistral-large", "claude-3-5-sonnet", "llama3-8b"]
