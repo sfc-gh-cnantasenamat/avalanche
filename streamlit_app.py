@@ -366,3 +366,6 @@ def main():
 # with tab[3]:
 #     root = Root(session)
 #     main()
+
+services = session.sql("SHOW CORTEX SEARCH SERVICES;").collect()
+st.write(services)
