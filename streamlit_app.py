@@ -12,7 +12,7 @@ from snowflake.core import Root # requires snowflake>=0.8.0
 
 # Get the current credentials
 # session = get_active_session()
-session = df = st.connection("snowflake")
+session = st.connection("snowflake")
 
 st.set_page_config(page_title="Avalanche Data Set",
                     page_icon="🏔️",
